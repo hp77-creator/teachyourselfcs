@@ -11,6 +11,8 @@ Present: EE 2nd year, 4th Sem
 
 # Courses
 
+<details><summary> Languages</summary> 
+
 - [] Python (In progress)
 - [] Java (In progress)
 - [] C++ (In progress)
@@ -19,7 +21,15 @@ Present: EE 2nd year, 4th Sem
 - [] Haskell
 
 
+</details>
+
+
+
 ## Roadmaps
+
+
+<details><summary> Backend Developer</summary>
+	
 
 ### Backend Developer
 - [] Learn the basics of Internet
@@ -30,7 +40,7 @@ Present: EE 2nd year, 4th Sem
 -     [] DNS and how it works
 -     [] What is hosting?
 -     [] What is SMTP
-- [] Basics of Frontend Language
+- [X] Basics of Frontend Language
 -     [X] HTML
 -     [X] CSS
 -     [X] Javascript
@@ -93,6 +103,11 @@ Present: EE 2nd year, 4th Sem
 -     [] Serverless
 -     [] Scaling(Horizontal and vertical)
 -     [] Load Balancers
--    
-It is inspired from this [link](https://teachyourselfcs.com/)
+
+This Roadmap was taken from [here](https://twitter.com/dermayank/status/1371118098716127233)
+
+</details> 
+
+
+Whole idea of teaching yourself cs is inspired from this [link](https://teachyourselfcs.com/)
 	
