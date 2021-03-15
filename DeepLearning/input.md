@@ -74,16 +74,16 @@ When B=1, it becomes greedy search.
 #### Refinements of Beam Search
 
  Length normalization: 
- $$
+
  arg max \prod_{t=1}^{Ty} P{y^<t> |x, y^<1>, …, y^<t-1>}
- $$
+ 
 
  This is converted into log and the product is converted into summation like 
 
 
- $$
+ 
  arg max \sum_{t=1}^{Ty} \log_P{y^<t> | x, y^<1>, . . . , y^<t-1>}
- $$
+ 
 
 
 #### Beam search discussion
@@ -99,17 +99,17 @@ When B=1, it becomes greedy search.
 
 Example of machine translation from french to English:
   Sentence: *Jane visite l'Afrique en septembre*. 
-  Human: Jane visits Africa in September. ($y^(^)$)
+  Human: Jane visits Africa in September. (y^(^))
   Algorithm: Jane visited Africa last September. (y*)
   
   There is error in sentence translation so we should be able to provide this feedback to the algorithm either in RNN or Beam Search because both of these components combine to find the translation.
 
   RNN computes P(y | x). In our example there are two possibilities which will provide what part of our architecture is at fault.
 
-  Case 1: P( y* | x ) >= P ( $y^(^)$ | x) 
+  Case 1: P( y* | x ) >= P ( y^(^) | x) 
     Here Beam Search is at fault
 
-  Case 2: P($y^(^)$ | x) >= P(y* | x) 
+  Case 2: P(y^(^) | x) >= P(y* | x) 
     Here RNN is responsible for error
 
 
@@ -133,7 +133,7 @@ Intuition: we will look at different machine generated words and will look these
 
   MT output: the the the the the the
   here 'the' appears 7 and 
-  Precision: $fract_{7}^{7}$
+  Precision: fract_{7}^{7}
 
   This is not such a good measure so we use modified precision where in numerator we see how many times the detected word(here 'the') and in denominator we have the length of the Machine Translation output.
 
@@ -146,13 +146,13 @@ In this way we check two words at a time, and noting their count in 'clipCount' 
 This definition is generalized way of finding modified precision.
 
 #### Bleu details:
-$$
+
 \p_n = Bleu Score on n-grams only
 
 Combined Bleu score: BP * e^(1/4 \sum_{n=1}^{4} P_n)
 
 BP = Brevy penalty
-$$
+
 
 BP = 1 if MT_output_length > reference_output_length
 BP = exp(1 - reference_output_length/MT_output_length) otherwise
