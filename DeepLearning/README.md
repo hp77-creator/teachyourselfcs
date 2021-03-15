@@ -25,9 +25,9 @@ This is a very good set of courses on deep learning by Andrew ng.
 - GloVe word vectors(global vectors for word representation)
 - Sentiment Classification(using word embeddings)
 - Debiasing(gender or racial that kind of bias, not our ML terminology) Word embeddings
--
--
--
+- Sequence Models
+- Beam Search
+- 
 
 
 
@@ -63,6 +63,17 @@ Examples are Machine Translation, Language recognition
 ### Beam Search
 
 Why not a greedy search?
+
+It looks for all the possible meaning/related words with current word in focus in word embedding and takes them out
+
+It has something called Beam width which determines the number of words to predict out.
+When B=1, it becomes greedy search.
+
+#### Refinements of Beam Search
+
+Length normalization: 
+arg max
+
 
 
 

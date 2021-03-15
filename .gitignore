@@ -1,2 +1,5 @@
 ##vim generated files
 *~
+
+## swap generated files
+*.swp
