@@ -109,5 +109,7 @@ This Roadmap was taken from [here](https://twitter.com/dermayank/status/13711180
 </details> 
 
 
-Whole idea of teaching yourself cs is inspired from this [link](https://teachyourselfcs.com/)
+Whole idea of teaching yourself cs is inspired from this [link](https://teachyourselfcs.com/).
+
+Listed with :heart: by hp77.
 	
