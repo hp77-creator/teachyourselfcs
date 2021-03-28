@@ -3,3 +3,7 @@
 
 ## swap generated files
 *.swp
+
+## python related files
+__pycache__
+.ipynb_checkpoints
