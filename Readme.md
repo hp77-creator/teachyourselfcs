@@ -7,15 +7,37 @@ Present: EE 2nd year, 4th Sem
 # Time in College
 
 - [X] First Year
-- [] Second Year
-
+- [X] Second Year
+- [ ] Third Year
 # Courses
 
-Currently Watching:
-    - Introduction to Algorithm(MIT OCW):
-        - Lecture: R12. Karatsuba Multiplication, Newton's Method
+### Currently Watching:
+<details> <summary> MIT OCW: 6.006</summary>
+- Introduction to Algorithm(MIT OCW):
+    - Lecture: L1. Introduction to Algorithms(Done)
+    - Lecture: L2. Models of Computation, Document Distance (Done)
+    - Lecture: R1. Asymptotic Complexity, Peak Finding (Done)
+    - Lecture: R2. Python Cost Model, Document Distance (Done)
+    - Lecture: L3. Insertion Sort, Merge Sort (Done)
+    - Lecture: L4. Heaps and Heap Sort (Done)
+    - Lecture: L5. Binary Search Trees, BST Sort (Done)
+    - Lecture: R4 (Done)
+    - Lecture: L6. AVL Trees, AVL Sort (Done)
+    - Lecture: R6. AVL Trees (Done)
+    - Lecture: L7. Counting Sort, Radix Sort, Lower bounds for sorting and Searching (Done)
+    - Lecture: R7. Comparison Sort, Counting and Radix Sort (Done)
+    - Lecture: L8. Hashing with Chaining (Done)
+    - Lecture: L9. Table Doubling, Karp Robin (Done)
+    - Lecture: R9. Rolling Hashes, Amortized Analysis (Done)
+    - Lecture: L10. Open Addressing, Cryptographic Hashing (Done)
+    - Lecture: L11. Integer Arithmetic, Karatsuba Multiplication(Recreational Math lecture)  (Done)
+    - Lecture: R12. Karatsuba Multiplication, Newton's Method (Done)
+    - Lecture: R12. Karatsuba Multiplication, Newton's Method (Done)
+    - Lecture: L12: Square Roots, Newton's Method
+</details>
 
-<details><summary> Languages</summary> 
+## Languages
+<details><summary></summary> 
 
 - [] Python (In progress)
 - [] Java (In progress)
@@ -30,7 +52,7 @@ Currently Watching:
 
 ## Books
  Currently Reading:
-    - How to Solve it by G. Polya
+- How to Solve it by G. Polya
 
 
 ## Roadmaps
@@ -117,7 +139,11 @@ This Roadmap was taken from [here](https://twitter.com/dermayank/status/13711180
 </details> 
 
 
-Whole idea of teaching yourself cs is inspired from this [link](https://teachyourselfcs.com/).
+
+
+
+
+Whole idea of teaching yourself CS is inspired from this [link](https://teachyourselfcs.com/).
 
 Listed with :heart: by hp77.
 	
