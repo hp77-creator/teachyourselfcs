@@ -39,12 +39,12 @@ Present: EE 2nd year, 4th Sem
 ## Languages
 <details><summary></summary> 
 
-- [] Python (In progress)
-- [] Java (In progress)
-- [] C++ (In progress)
-- [] Rust
-- [] Javascript
-- [] Haskell
+- [ ] Python (In progress)
+- [ ] Java (In progress)
+- [ ] C++ (In progress)
+- [ ] Rust
+- [ ] Javascript
+- [ ] Haskell
 
 
 </details>
