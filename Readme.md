@@ -11,6 +11,10 @@ Present: EE 2nd year, 4th Sem
 
 # Courses
 
+Currently Watching:
+    - Introduction to Algorithm(MIT OCW):
+        - Lecture: R12. Karatsuba Multiplication, Newton's Method
+
 <details><summary> Languages</summary> 
 
 - [] Python (In progress)
@@ -23,6 +27,10 @@ Present: EE 2nd year, 4th Sem
 
 </details>
 
+
+## Books
+ Currently Reading:
+    - How to Solve it by G. Polya
 
 
 ## Roadmaps
