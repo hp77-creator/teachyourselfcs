@@ -1,14 +1,21 @@
 # Intro
 
-Target: Knowledge at par with CS Grad
-Present: EE 2nd year, 4th Sem
+Target: Knowledge upto level of Murat Demirbas 
+Present: SDET at Piramal Finance 
+Updated at: 30th Oct, 2024
 
 
 # Time in College
+<details>
+<summary> Done with College </summary>
 
 - [X] First Year
 - [X] Second Year
-- [ ] Third Year
+- [X] Third Year
+- [X] Fourth Year
+
+</details>
+
 # Courses
 
 ### Currently Watching:
@@ -42,9 +49,9 @@ Present: EE 2nd year, 4th Sem
 - [ ] Python (In progress)
 - [ ] Java (In progress)
 - [ ] C++ (In progress)
-- [ ] Rust
-- [ ] Javascript
-- [ ] Haskell
+- [ ] Rust (In progress)
+- [ ] Javascript (In progress)
+- [ ] Haskell (Not learning yet)
 
 
 </details>
@@ -52,7 +59,16 @@ Present: EE 2nd year, 4th Sem
 
 ## Books
  Currently Reading:
-- How to Solve it by G. Polya
+- How to Solve it by G. Polya (Abandoned)
+- Designing data intensive applications by Martin Klepmann
+
+<details>
+<summary>Previously read books</summary>
+
+- Modern software architecture by 
+- Operating System in Three Easy Pieces by Arpaci-Dusseau
+
+</details>
 
 
 ## Roadmaps
@@ -62,6 +78,7 @@ Present: EE 2nd year, 4th Sem
 	
 
 ### Backend Developer
+
 - [] Learn the basics of Internet
 -     [] How does the internet work
 -     [] What is Http and Https
@@ -147,3 +164,9 @@ Whole idea of teaching yourself CS is inspired from this [link](https://teachyou
 
 Listed with :heart: by hp77.
 	
+
+## Links 
+
+some exciting links that I come across when I am surfing internet and little text near to the links describing what I found exciting on those links
+
+head to [folder](links/README.md)
